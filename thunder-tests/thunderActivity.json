@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "7213c9eb-ddbf-46e1-93b6-9e5710235526",
+    "colId": "history",
+    "containerId": "",
+    "name": "https://www.themealdb.com/api/json/v1/1/search.php?s=",
+    "url": "https://www.themealdb.com/api/json/v1/1/search.php?s=",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2022-09-12T21:27:30.580Z",
+    "modified": "2022-09-12T21:27:31.549Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "s",
+        "value": "",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
